@@ -1,0 +1,245 @@
+
+  {
+    "name": "murder",
+    "children": [
+      {
+      "name":"relationship",
+      "children": [
+        {
+        "name": "non-family",
+        "children": [
+          {"name": "Acquaintance", "value": 35111},
+          {"name": "Employee", "value": 122},
+          {"name": "Employer", "value": 174},
+          {"name": "Ex-Husband", "value": 136},
+          {"name": "Ex-Wife", "value": 675},
+          {"name": "Friend", "value": 6095},
+          {"name": "Neighbor", "value": 1759},
+          {"name": "Stranger", "value": 32758},
+          {"name": "Unknown", "value": 119525}
+        ]
+      },
+      {
+        "name": "family",
+        "children": [
+          {"name": "Boyfriend", "value": 2398},
+          {"name": "Boyfriend/Girlfriend", "value": 377},
+          {"name": "Brother", "value": 1585},
+          {"name": "Common-Law Husband", "value": 236},
+          {"name": "Common-Law Wife", "value": 621},
+          {"name": "Daughter", "value": 3112},
+          {"name": "Family", "value": 3836},
+          {"name": "Father", "value": 1642},
+          {"name": "Girlfriend", "value": 7183},
+          {"name": "Husband", "value": 1777},
+          {"name": "In-Law", "value": 912},
+          {"name": "Mother", "value": 1878},
+          {"name": "Sister", "value": 442},
+          {"name": "Son", "value": 3938},
+          {"name": "Stepdaughter", "value": 309},
+          {"name": "Stepfather", "value": 423},
+          {"name": "Stepmother", "value": 68},
+          {"name": "Stepson", "value": 433},
+          {"name": "Wife", "value": 8497}
+        ]
+      }
+    ]
+    },
+    {
+      "name": "murder method",
+      "children": [
+        {
+        "name": "asphyxiation",
+        "children": [
+          {"name": "Drowning", "value": 319},
+          {"name": "Strangulation", "value": 1905},
+          {"name": "Suffocation", "value": 1638}
+         ]  
+        },
+        {
+        "name": "other",
+        "children": [
+          {"name": "Drugs", "value": 981},
+          {"name": "Explosives", "value": 82},
+          {"name": "Fall", "value": 47},
+          {"name": "Fire", "value": 47},
+          {"name": "Poison", "value": 184},
+          {"name": "Unknown", "value": 16190}
+        ]
+        },
+        {
+        "name": "weapon",
+        "children": [
+          {"name": "Blunt Object", "value": 23945},
+          {"name": "Firearm", "value": 28077},
+          {"name": "Gun", "value": 1495},
+          {"name": "Handgun", "value": 116205},
+          {"name": "Knife", "value": 29118},
+          {"name": "Rifle", "value": 6874},
+          {"name": "Shotgun", "value": 7186}
+        ]
+      }
+    ]
+    },
+    {
+      "name": "perpetrator",
+      "children": [
+        {
+        "name": "perpetrator sex",
+        "children": [
+          {"name": "male", "value": 148388},
+          {"name": "female", "value": 15193},
+          {"name": "unknown", "value": 72441}
+        ]
+        },
+        {
+        "name": "perpetrator race",
+        "children": [
+          {"name": "Asian/Pacific Islander", "value": 2495},
+          {"name": "Black", "value": 77257},
+          {"name": "Native American/Alaska Native", "value": 1350},
+          {"name": "White", "value": 80066},
+          {"name": "Unknown", "value": 74854}
+        ]
+        }
+      ]
+      },
+      {    
+      "name": "victim",
+      "children": [
+        {
+        "name": "victim age",
+        "children": [
+          {"name": "child", "value": 33664},
+          {"name": "eighties", "value": 201977},
+          {"name": "fifties", "value": 1025758},
+          {"name": "fourties", "value": 1466742},
+          {"name": "nineties", "value": 793899},
+          {"name": "seventies", "value": 330871},
+          {"name": "sixties", "value": 523502},
+          {"name": "teenager", "value": 475853},
+          {"name": "thirties", "value": 1621438},
+          {"name": "twenties", "value": 1891867}
+        ]
+        },
+        {
+        "name": "victim sex",
+        "children": [
+          {"name": "female", "value": 51377},
+          {"name": "male", "value": 184186},
+          {"name": "unknown", "value": 459}
+        ]
+        },
+        {
+        "name": "victim race",
+        "children": [
+          {"name": "Asian/Pacific Islander", "value": 4101},
+          {"name": "Black", "value": 113862},
+          {"name": "Native American/Alaska Native", "value": 1704},
+          {"name": "Unknown", "value": 22941},
+          {"name": "White", "value": 113414}
+        ]
+      }
+    ]
+    
+        },
+        {
+      "name": "time",
+      "children": [
+        {
+        "name": "month",
+        "children": [
+          {"name": "April", "value": 19345},
+          {"name": "August", "value": 21203},
+          {"name": "January", "value": 19029},
+          {"name": "February", "value": 15926},
+          {"name": "March", "value": 18672},
+          {"name": "May", "value": 20263},
+          {"name": "June", "value": 20443},
+          {"name": "July", "value": 22241},
+          {"name": "September", "value": 19984},
+          {"name": "October", "value": 19898},
+          {"name": "November", "value": 18732},
+          {"name": "December", "value": 20286}
+        ]
+        },
+        {
+        "name": "year",
+        "children": [
+          {"name": "2000", "value": 14671},
+          {"name": "2001", "value": 15803},
+          {"name": "2002", "value": 16268},
+          {"name": "2003", "value": 16512},
+          {"name": "2004", "value": 16233},
+          {"name": "2005", "value": 16836},
+          {"name": "2006", "value": 17275},
+          {"name": "2007", "value": 17303},
+          {"name": "2008", "value": 15595},
+          {"name": "2009", "value": 15840},
+          {"name": "2010", "value": 15121},
+          {"name": "2011", "value": 14756},
+          {"name": "2012", "value": 15033},
+          {"name": "2013", "value": 14445},
+          {"name": "2014", "value": 14331}
+        ]
+      }
+    ]
+        },
+        {
+      "name": "state",
+      "children": [
+        {"name": "Alabama", "value": 3351},
+        {"name": "Alaska", "value": 606},
+        {"name": "Arizona", "value": 6330},
+        {"name": "Arkansas", "value": 2489},
+        {"name": "California", "value": 34002},
+        {"name": "Colorado", "value": 2541},
+        {"name": "Connecticut", "value": 1674},
+        {"name": "Delaware", "value": 609},
+        {"name": "Disctrict of Columbia", "value": 1848},
+        {"name": "Florida", "value": 16387},
+        {"name": "Georgia", "value": 8776},
+        {"name": "Hawaii", "value": 390},
+        {"name": "Idaho", "value": 459},
+        {"name": "Illinois", "value": 7984},
+        {"name": "Indiana", "value": 4913},
+        {"name": "Iowa", "value": 754},
+        {"name": "Kansas", "value": 1469},
+        {"name": "Kentucky", "value": 2374},
+        {"name": "Louisiana", "value": 7748},
+        {"name": "Maine", "value": 370},
+        {"name": "Maryland", "value": 7284},
+        {"name": "Massachusetts", "value": 2441},
+        {"name": "Michigan", "value": 9844},
+        {"name": "Minnesota", "value": 1686},
+        {"name": "Mississippi", "value": 2646},
+        {"name": "Missouri", "value": 5971},
+        {"name": "Montana", "value": 324},
+        {"name": "Nebraska", "value": 552},
+        {"name": "Nevada", "value": 2752},
+        {"name": "New Hampshire", "value": 222},
+        {"name": "New Jersey", "value": 5798},
+        {"name": "New Mexico", "value": 1985},
+        {"name": "New York", "value": 12491},
+        {"name": "North Carolina", "value": 7978},
+        {"name": "North Dakota", "value": 140},
+        {"name": "Ohio", "value": 7289},
+        {"name": "Oklahoma", "value": 3265},
+        {"name": "Oregon", "value": 1347},
+        {"name": "Pennsylvania", "value": 10525},
+        {"name": "Rhode Island", "value": 470},
+        {"name": "South Carolina", "value": 4833},
+        {"name": "South Dakota", "value": 225},
+        {"name": "Tennessee", "value": 6429},
+        {"name": "Texas", "value": 20777},
+        {"name": "Utah", "value": 863},
+        {"name": "Vermont", "value": 173},
+        {"name": "Virginia", "value": 5769},
+        {"name": "Washington", "value": 3013},
+        {"name": "West Virginia", "value": 1013},
+        {"name": "Wisconsin", "value": 2632},
+        {"name": "Wyoming", "value": 211}
+      ]  
+    }
+    ]
+  }
